@@ -36,11 +36,14 @@
 </p>
 
 ---
-### 🧠 LeetCode Stats
+<h3 align="center">🧠 LeetCode Stats</h3>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vikashyadav0007?theme=dark&font=baloo)](https://leetcode.com/u/vikashyadav0007/)
+<p align="center">
+  <a href="https://leetcode.com/u/vikashyadav0007/">
+    <img src="https://leetcard.jacoblin.cool/vikashyadav0007?theme=dark&font=baloo" alt="LeetCode Stats" />
+  </a>
+</p>
 
-### 🏆 Achievements
 
 - 🧩 100+ LeetCode Questions Solved  
 - 🥇 Top Chess Player at LPU – AIUG Representative  
