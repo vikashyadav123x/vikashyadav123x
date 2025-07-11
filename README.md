@@ -1,68 +1,74 @@
-# 🙋‍♂️ Vikash Yadav
+<h1 align="center">Hi 👋, I'm Vikash Yadav</h1>
+<h3 align="center">Aspiring Full Stack Developer | Java DSA | MERN | LPU'27</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=440&height=45&lines=Aspiring+Full+Stack+Developer;Java+%7C+MERN+%7C+DSA+Enthusiast;Open+Source+%7C+Competitive+Programming)
-
-## 🧑‍💻 About Me
-
-I'm a passionate and results-driven B.Tech CSE student at **LPU (2023–2027)**, specializing in **Full Stack Web Development** and **Data Structures & Algorithms (Java)**. I enjoy building clean, scalable products and solving complex problems through code.
-
-🎓 **B.Tech in Computer Science Engineering (LPU)**  
-🏆 **100+ problems solved** on LeetCode  
-🌟 **Represented LPU** in All India University Games (Chess)  
-🚀 Main project: [SpaceX Clone](https://vikashyadavspacexclone.netlify.app)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=440&height=45&lines=Java+%7C+MERN+Stack+Developer;Loves+DSA+%26+Open+Source;Future+10+LPA+Engineer+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💼 Experience & Projects
+### 🧑‍💻 About Me
 
-### 🔭 SpaceX Clone  
-Responsive frontend project replicating the official SpaceX website using **HTML, CSS, JavaScript** and **React**.  
-✅ Deployed on Netlify: [Link](https://vikashyadavspacexclone.netlify.app)
-
-### 🧠 DSA Learning (Java)  
-- Focused on mastering DSA using Java (Arrays, Hashing, Sliding Window, etc.)  
-- Practicing on platforms like **LeetCode**, **CodeStudio**, and **GFG**
+- 🎓 B.Tech in CSE @ **LPU** (2023–2027)  
+- 🧠 Solved **100+ DSA problems** on LeetCode  
+- ♟️ Represented **LPU in All India University Games (Chess)**  
+- 🚀 Currently building: [**SpaceX Clone**](https://vikashyadavspacexclone.netlify.app)
 
 ---
 
-## 🧰 Tech Stack
+### 🚀 Tech Stack
 
-### 👨‍💻 Languages  
-`Java` `JavaScript` `HTML` `CSS`
-
-### 🌐 Frontend  
-`React.js` `TailwindCSS` `Bootstrap`
-
-### 🗄️ Backend  
-`Node.js` `Express.js` `MongoDB`
-
-### ⚙️ Tools & Platforms  
-`VS Code` `Git` `GitHub` `Postman` `Netlify`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,html,css,git,github,vscode,linux" />
+</p>
 
 ---
 
-## 🏆 Achievements
+### 📊 GitHub Stats
 
-- 🎖️ **All India University Games (Chess)** – Represented LPU  
-- 🧠 **100+ LeetCode Questions Solved**  
-- 📚 Self-taught MERN stack developer during college break  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikashyadav123x&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashyadav123x&theme=radical" width="48%" />
+</p>
 
----
-
-## 📊 GitHub Stats
-
-![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashyadav123x&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashyadav123x&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashyadav123x&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+### 🏆 Achievements
 
-- 📧 [vikashyadav10648@gmail.com](mailto:vikashyadav10648@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vikashyadav07/)  
-- 💻 [GitHub](https://github.com/vikashyadav123x)  
-- 🌐 [Portfolio](https://vikashyadavspacexclone.netlify.app)
+- 🧩 100+ LeetCode Questions Solved  
+- 🥇 Top Chess Player at LPU – AIUG Representative  
+- 💼 Built several **responsive React projects**  
+- 🔭 Exploring advanced Java DSA topics & backend system design
 
 ---
 
-*Always learning. Always building. Let's connect and grow together! 💙*
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikashyadav07/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vikashyadav10648@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/vikashyadav123x" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://vikashyadavspacexclone.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">⭐️ From <strong>Vikash Yadav</strong> with code 💻 and caffeine ☕</p>
