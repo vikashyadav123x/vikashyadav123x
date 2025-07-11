@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Java DSA | MERN | LPU'27</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=440&height=45&lines=Java+%7C+MERN+Stack+Developer;Loves+DSA+%26+Open+Source;Future+10+LPA+Engineer+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=440&height=45&lines=Java+%7C+MERN+Stack+Developer;Loves+DSA+%26+Open+Source" alt="Typing SVG" />
 </p>
 
 ---
