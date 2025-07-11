@@ -36,6 +36,10 @@
 </p>
 
 ---
+### 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vikashyadav07?theme=dark&font=baloo)](https://leetcode.com/vikashyadav07/)
+
 
 ### 🏆 Achievements
 
