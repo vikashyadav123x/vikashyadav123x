@@ -46,7 +46,7 @@
 
 
 - 🧩 100+ LeetCode Questions Solved  
-- 🥇 Top Chess Player at LPU – AIUG Representative  
+- 🥇 Top Chess Player at LPU – AIU Representative  
 - 💼 Built several **responsive React projects**  
 - 🔭 Exploring advanced Java DSA topics & backend system design
 
